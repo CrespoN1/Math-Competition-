@@ -20,8 +20,8 @@ Tstop = 30;           % Simulation runs until time = TFinal
 %
 % Initial Values
 %
-Fm0 = 1.125; %37500;                   % Initial Population for Mated Females
-Fv0 = 36.38;%375000; 
+Fm0 = 1.125; % Initial Population for Mated Females
+Fv0 = 36.38; %initial value for virgin females
 M0 = 37.5; % Initial Population for Males
 W0= 20.0;%200000;                      % Initial Population for Wasps
 E0= 0;
